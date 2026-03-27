@@ -41,9 +41,7 @@ GUI dibuat menggunakan **Tkinter**, library bawaan Python untuk membuat aplikasi
 
 ## 🖥️ Preview
 
-```md
-![Preview](assets/preview.png)
-```
+![Preview](assets/preview.JPG)
 
 ---
 
